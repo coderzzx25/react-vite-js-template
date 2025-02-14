@@ -8,10 +8,10 @@
 
 ### 使用的技术栈
 
-1. react 18.2.0
+1. react 19.0.0
 2. vite 5.0.8
-3. @reduxjs/toolkit 2.0.1
-4. react-redux 9.0.4
+3. @reduxjs/toolkit 2.5.1
+4. react-redux 9.2.0
 5. axios 1.6.2
 6. react-router-dom 6.21.0
 
