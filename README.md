@@ -13,7 +13,7 @@
 3. @reduxjs/toolkit 2.5.1
 4. react-redux 9.2.0
 5. axios 1.6.2
-6. react-router-dom 6.21.0
+6. react-router-dom 7.2.0
 
 ### 样式解决方案
 

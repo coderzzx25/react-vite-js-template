@@ -1,5 +1,5 @@
 import React, { lazy } from 'react';
-import { Navigate } from 'react-router-dom';
+import { createBrowserRouter, Navigate } from 'react-router-dom';
 
 const Main = lazy(() => import('@/views/main/main.jsx'));
 const NotFound = lazy(() => import('@/views/notfound/notfound.jsx'));
@@ -19,4 +19,6 @@ const routes = [
   }
 ];
 
-export default routes;
+const router = createBrowserRouter(routes);
+
+export default router;
